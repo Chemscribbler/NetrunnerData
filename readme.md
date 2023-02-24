@@ -12,6 +12,6 @@ If you want to run this locally you'll need at miniconda or anaconda installed. 
 
 Once you have conda installed, open your command line tool of choice and navigate to this folder then run:
 
-`conda env create -f 'env.yaml'`
+`conda env create -f env.yaml`
 
 That will create the environment that has all the requirements for the cbi_analysis notebook. Then you'll have to select that environement called `netrunner_data` to actually run the code, though how exactly you do that will vary a bit from use to use, so I'll leave that as an excercise for the reader.
